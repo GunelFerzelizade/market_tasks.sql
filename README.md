@@ -2,7 +2,7 @@
 ## 📂 Məlumat Bazası Cədvəlləri
 # Layihədə istifadə olunan əsas cədvəllər:
 # - **mehsul** — Məhsul məlumatları  
-# - **musteri** — Müştəri məlumatları  
+# - **musteri** — Müştəri məlumatları 
 # - **sales** — Satış əməliyyatları  
 # Hər bir cədvəl haqqında tam struktur `SHOW TABLES` və `DESCRIBE` sorğuları ilə göstərilmişdir.
 # 📌 Proyektin Məqsədi
